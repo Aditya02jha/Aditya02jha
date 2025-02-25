@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya02jha" alt="aditya02jha" /></a> </p>
 
-- 🔭 I’m currently working on [Employee-Management]((https://github.com/Aditya02jha/Employee-Management))
+- 🔭 I’m currently working on [Employee-Management]([https://github.com/Aditya02jha/Employee-Management])
 
 - 🌱 I’m currently learning **React , Node.js**
 
