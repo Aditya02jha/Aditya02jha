@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Employee-Management](https://github.com/Aditya02jha/Employee-Management/)
 
-- 🌱 I’m currently learning **React , Node.js**
+- 🌱 I’m currently learning **Java , SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://aditya02jha.github.io/Aditya_jha-Portfolio/](https://aditya02jha.github.io/Aditya_jha-Portfolio/)
 
-- 💬 Ask me about **React , JavaScript , Nodejs**
+- 💬 Ask me about **React , JavaScript , Nodejs, Java SpringBoot, AWS, MySql **
 
 - 📫 How to reach me **aditya0000jha@gmail.com**
 
