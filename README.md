@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aditya02jha" alt="aditya02jha" /></a> </p>
 
-- 🔭 I’m currently working on [Employee-Management](https://github.com/Aditya02jha/Employee-Management/)
+- 🔭 I’m currently working on [Employee-Management](https://github.com/Aditya02jha/autodev-agent)
 
-- 🌱 I’m currently learning **Java , SpringBoot**
+- 🌱 I’m currently learning **Ai , RAG implementation and Python**
 
 - 👨‍💻 All of my projects are available at [https://aditya02jha.github.io/Aditya_jha-Portfolio/](https://aditya02jha.github.io/Aditya_jha-Portfolio/)
 
